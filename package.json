@@ -1,0 +1,18 @@
+{
+  "name": "gather-player-count",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gathertown/gather-game-client": "^0.0.2",
+    "@gathertown/gather-game-common": "^0.0.2",
+    "isomorphic-ws": "^4.0.1",
+    "lodash": "^4.17.20",
+    "ts-node": "^9.1.1"
+  }
+}
